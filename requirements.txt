@@ -2,3 +2,9 @@ pandas
 numpy
 matplotlib
 seaborn
+
+## 📊 Data Source
+The data used in this project was sourced from the [Ultimate UFC Dataset](https://www.kaggle.com/datasets/mdabbert/ultimate-ufc-dataset) on Kaggle. 
+This dataset is a comprehensive collection of UFC fights, combining multiple sources including:
+* **ufcstats.com** (Bout and fighter statistics)
+* **bestfightodds.com** (Betting odds)

@@ -18,3 +18,9 @@ This project explores a dataset of over 6,000 UFC fights to identify which stati
 ## 📊 Visualizations
 ### The Feature Heatmap
 The correlation heatmap reveals that while physical traits are linked to each other, they have a weak direct correlation with the final 'Target' (winning).
+
+## 📊 Data Source
+The data used in this project was sourced from the [Ultimate UFC Dataset](https://www.kaggle.com/datasets/mdabbert/ultimate-ufc-dataset) on Kaggle. 
+This dataset is a comprehensive collection of UFC fights, combining multiple sources including:
+* **ufcstats.com** (Bout and fighter statistics)
+* **bestfightodds.com** (Betting odds)
